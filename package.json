@@ -1,1 +1,12 @@
-
+{
+  "name": "kcse-ai-portal",
+  "version": "1.0.0",
+  "description": "KCSE AI Question Answering Portal",
+  "main": "index.js",
+  "scripts": {
+    "start": "node api/chat.js"
+  },
+  "dependencies": {
+    "openai": "^5.10.2"
+  }
+}
