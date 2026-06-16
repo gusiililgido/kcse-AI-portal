@@ -1,7 +1,7 @@
 {
   "name": "kcse-ai-portal",
   "version": "1.0.0",
-  "description": "KCSE AI Question Answering Portal",
+  "description": "KCSE AI Questions Answering Portal",
   "main": "index.js",
   "scripts": {
     "start": "node api/chat.js"
